@@ -48,4 +48,7 @@ Es una licencia open source, puedes modificar a tu gusto el juego
 * Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 a alguien del equipo. 
 * Da las gracias públicamente 🤓.
-* etc.
+* etc.`
+
+* Ok, gracias a todos por vuesto trabajo colaborativo
+
