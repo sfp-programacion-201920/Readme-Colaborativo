@@ -1,8 +1,9 @@
 # Título del Proyecto
-¿Como descargar el Mario Kart?
+Mario Kart para Android
 ## Descripción 🚀
 
-Da una descripción breve de en qué consiste tu proyecto.
+Buenas, en este proyecto vamos a enseñar a como descargar Mario Kart. Este Mario Kart es solo compatible con la última versión de Android
+*IMPORTANTE* No descargar en IOS, está todavía en desarrollo para principios de 2020 será la versión compatible.
 
 
 ### Instalación 🔧
@@ -35,7 +36,7 @@ Menciona las herramientas que utilizaste para crear tu proyecto
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://mariokarttour.com)
 
 ## Versionado 📌
 
