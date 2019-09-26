@@ -7,29 +7,17 @@ Buenas, en este proyecto vamos a enseñar a como descargar Mario Kart. Este Mari
 
 
 ### Instalación 🔧
+```
 Descargar el juego de google play y una vez instalado aceptar los términos y condiciones de la empresa para dar su consentimiento para poder acceder a su teléfono movil y una vez aceptado ya podrá entrar en el juego.
 Una vez dentro del juego crearse una cuenta o en caso de que ya esté creada iniciar sesión y empezar a disfrutar del juego.
-
-
-
-
-
-
-
-
-hasta finalizar
 ```
-
-Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo
-
-
 ## Construido con 🛠️
 
-Menciona las herramientas que utilizaste para crear tu proyecto
+Este proyecto lo hemos desarrollado con las siguientes herramientas:
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Bezel Engine](https://www.revistaclubnintendo.com/noticias/motor-grafico-nintendoware-bezel-engine/) - El motor que hemos utilizado
+* [HTML5](http://html5test.com/) - Donde hemos desarrollado la página web de nuestra aplicación
+* [Play Store](https://play.google.com/store) - Donde hemos lanzado nuestra aplicación
 
 
 ## Wiki 📖
@@ -38,7 +26,10 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Versión 1.0: Edición del título y los autores
+Versión 1.1: Creación de la descripción y añadida la página web de información
+Versión 1.2: Puestos los pasos de instalación y añadida la licencia del desarrollo
+Versión 1.3: Versionado y herramientas utilizadas explicadas
 
 ## Autores ✒️
 
