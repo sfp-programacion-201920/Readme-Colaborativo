@@ -7,18 +7,16 @@ Buenas, en este proyecto vamos a enseñar a como descargar Mario Kart. Este Mari
 
 
 ### Instalación 🔧
+Descargar el juego de google play y una vez instalado aceptar los términos y condiciones de la empresa para dar su consentimiento para poder acceder a su teléfono movil y una vez aceptado ya podrá entrar en el juego.
+Una vez dentro del juego crearse una cuenta o en caso de que ya esté creada iniciar sesión y empezar a disfrutar del juego.
 
-Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose
 
-Dí cómo será ese paso
 
-```
-Da un ejemplo
-```
 
-Y repite
 
-```
+
+
+
 hasta finalizar
 ```
 
@@ -52,7 +50,7 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Es una licencia open source, puedes modificar a tu gusto el juego
 
 ## Expresiones de Gratitud 🎁
 
