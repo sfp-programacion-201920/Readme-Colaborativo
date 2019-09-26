@@ -1,7 +1,5 @@
 # Título del Proyecto
-
-Indica aquí el título del proyecto.
-
+¿Como descargar el Mario Kart?
 ## Descripción 🚀
 
 Da una descripción breve de en qué consiste tu proyecto.
@@ -45,8 +43,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
-
+Manuel Hidarlgo, Manuel Bono, Antonio Jimenez-Riquel y Pedro Bueno
 * **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
 * **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
